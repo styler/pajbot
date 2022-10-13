@@ -10,7 +10,7 @@ click==6.7
 colorama==0.3.7
 constantly==15.1.0
 cryptography==1.7.2
-Flask==0.12
+Flask==0.12.3
 Flask-Assets==0.12
 Flask-OAuthlib==0.9.3
 Flask-RESTful==0.3.5
@@ -32,7 +32,7 @@ jaraco.itertools==2.0.1
 jaraco.logging==1.5
 jaraco.stream==1.1.2
 jaraco.text==1.9.1
-Jinja2==2.9.5
+Jinja2==2.11.3
 jsmin==2.2.1
 linecache2==1.0.0
 m3u8==0.3.1
@@ -75,7 +75,7 @@ unittest2==1.1.0
 uritemplate==3.0.0
 uwsgidecorators==1.1.0
 webassets==0.12.1
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 wolframalpha==3.0
 xmltodict==0.10.2
 zope.interface==4.3.3
