@@ -10,7 +10,7 @@ click==6.7
 colorama==0.3.7
 constantly==15.1.0
 cryptography==1.7.2
-Flask==0.12
+Flask==2.2.5
 Flask-Assets==0.12
 Flask-OAuthlib==0.9.3
 Flask-RESTful==0.3.5
