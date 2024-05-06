@@ -75,7 +75,7 @@ unittest2==1.1.0
 uritemplate==3.0.0
 uwsgidecorators==1.1.0
 webassets==0.12.1
-Werkzeug==0.11.15
+Werkzeug==3.0.3
 wolframalpha==3.0
 xmltodict==0.10.2
 zope.interface==4.3.3
