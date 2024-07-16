@@ -79,3 +79,4 @@ Werkzeug==0.11.15
 wolframalpha==3.0
 xmltodict==0.10.2
 zope.interface==4.3.3
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
