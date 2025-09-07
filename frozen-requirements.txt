@@ -77,5 +77,5 @@ uwsgidecorators==1.1.0
 webassets==0.12.1
 Werkzeug==0.11.15
 wolframalpha==3.0
-xmltodict==0.10.2
+xmltodict==0.15.0
 zope.interface==4.3.3
